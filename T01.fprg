@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="jayabestinasimbolon"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 07:10:12 AM"/>
+        <attribute name="created" value="amF5YWJlc3RpbmFzaW1ib2xvbjtMQVBUT1AtVjVFMlNSTFM7MjAyNC0wOS0wNDswNjoxMjozNSBBTTs0Mzg4"/>
+        <attribute name="edited" value="amF5YWJlc3RpbmFzaW1ib2xvbjtMQVBUT1AtVjVFMlNSTFM7MjAyNC0wOS0wNDswNzoxMDoxMiBBTTsxOzQ0OTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
